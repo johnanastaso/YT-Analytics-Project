@@ -133,8 +133,6 @@ I loaded the transformed data into Power BI and created a 2-page interactive das
 
 **Next steps**
 
- Combining the findings of this project with historical data regarding the subscribers each channel acquired throughout the years we could perform predictive analysis with models to predict future channel performance (videos & subscribers)
- Sentiment Analysis: Perform sentiment analysis on video comments to gauge audience reactions.
- Expand Channel List: Include more channels for a broader analysis.
+ Combining the findings of this project with historical data regarding the subscribers each channel acquired throughout the years we could perform predictive analysis with models to predict future channel performance (videos & subscribers) and include more channels for a broader analysis.
 
 _Feel free to explore the project and reach out if you have any questions or suggestions!_
